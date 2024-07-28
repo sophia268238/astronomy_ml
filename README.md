@@ -16,4 +16,15 @@ Python Basics for Astronomers notes
 * [ASAS-SN](http://asas-sn.ifa.hawaii.edu/skypatrol/)
   * [pyasassn](http://asas-sn.ifa.hawaii.edu/documentation/index.html)
 
+Install Latte
+
+* \
+  ```javascript
+  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  brew install --cask xquartz
+  # add /opt/X11/bin/xprop to PATH
+  brew install libx11
+  brew install libXScrnSaver
+  ```
+
 

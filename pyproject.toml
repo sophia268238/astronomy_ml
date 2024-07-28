@@ -16,8 +16,10 @@ dependencies = [
     "lightkurve>=2.4.2",
     "jupyter>=1.0.0",
     "certifi>=2024.7.4",
-    "scikit-learn>=1.5.1",
     "basemap>=1.4.1",
+    "astral>=3.2",
+    "sklearn>=0.0.post12",
+    "scikit-learn>=1.5.1",
 ]
 requires-python = "==3.12.*"
 readme = "README.md"
