@@ -163,3 +163,6 @@ cython_debug/
 #.idea/
 # a type of zip file
 *.npz
+
+# Ignore downloaded data
+data/TIC*/**
