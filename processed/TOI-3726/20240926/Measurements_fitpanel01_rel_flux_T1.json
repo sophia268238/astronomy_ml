@@ -1,0 +1,142 @@
+{
+    "User Specified Parameters": {
+        "Orbital Period (days)": {
+            "Type": "Fixed",
+            "Best Fit": 1.0
+        },
+        "Orbital Eccentricity": {
+            "Type": "Fixed",
+            "Best Fit": 0.0
+        },
+        "Arg. of Peri. (deg)": {
+            "Type": "Fixed",
+            "Best Fit": 0.0
+        },
+        "Stellar Radius (Rsun)": {
+            "Type": "Fixed",
+            "Best Fit": 1.0064
+        }
+    },
+    "Transit Parameters": {
+        "Baseline Flux (raw)": {
+            "Type": "Fitted",
+            "Best Fit": 0.081023047,
+            "Prior Center": 0.080296715,
+            "Prior Width": "Infinity",
+            "Step Size": 0.080296715
+        },
+        "(Rp/R*)^2": {
+            "Type": "Fitted",
+            "Best Fit": 0.024093026,
+            "Prior Center": 0.009137827,
+            "Prior Width": "Infinity",
+            "Step Size": 0.009137827
+        },
+        "a/R*": {
+            "Type": "Fitted",
+            "Best Fit": 2.854658842,
+            "Prior Center": 3.262823013,
+            "Prior Width": "Infinity",
+            "Step Size": 1.0
+        },
+        "Tc": {
+            "Type": "Fitted",
+            "Best Fit": 2460580.896924499,
+            "Prior Center": 2460580.859,
+            "Prior Width": "Infinity",
+            "Step Size": 0.04
+        },
+        "Inclination (deg)": {
+            "Type": "Fitted",
+            "Best Fit": 80.467411291,
+            "Prior Center": 79.5,
+            "Prior Width": "Infinity",
+            "Step Size": 1.0
+        },
+        "Quad LD u1": {
+            "Type": "LOCKED",
+            "Best Fit": 0.3,
+            "Prior Center": 0.3,
+            "Prior Width": 0.0,
+            "Step Size": 0.1
+        },
+        "Quad LD u2": {
+            "Type": "LOCKED",
+            "Best Fit": 0.3,
+            "Prior Center": 0.3,
+            "Prior Width": 0.0,
+            "Step Size": 0.1
+        }
+    },
+    "Calculated From Model": {
+        "Impact Angle": {
+            "Type": "Calc",
+            "Best Fit": 0.472755937
+        },
+        "t14 (d)": {
+            "Type": "Calc",
+            "Best Fit": 0.122154918
+        },
+        "t14 (h:m:s)": {
+            "Type": "Calc",
+            "Best Fit": "02:55:54"
+        },
+        "t23 (d)": {
+            "Type": "Calc",
+            "Best Fit": 0.079998807
+        },
+        "tau (d)": {
+            "Type": "Calc",
+            "Best Fit": 0.021078055
+        },
+        "Stellar Density (cgs)": {
+            "Type": "Calc",
+            "Best Fit": 0.439667582
+        },
+        "(est)Spectral Type": {
+            "Type": "Calc",
+            "Best Fit": "A5V"
+        },
+        "Planet Radius (Rjup)": {
+            "Type": "Calc",
+            "Best Fit": 1.518044603
+        }
+    },
+    "Fit Statistics": {
+        "RMS (normalized)": {
+            "Type": "Stat",
+            "Best Fit": 0.005308047
+        },
+        "chi^2/dof": {
+            "Type": "Stat",
+            "Best Fit": 5.889894886
+        },
+        "BIC": {
+            "Type": "Stat",
+            "Best Fit": 1299.208108821
+        },
+        "Degrees of freedom": {
+            "Type": "Stat",
+            "Best Fit": 216
+        },
+        "chi^2": {
+            "Type": "Stat",
+            "Best Fit": 1272.217295316
+        },
+        "Number of steps taken": {
+            "Type": "Stat",
+            "Best Fit": 705
+        }
+    },
+    "Fit Settings": {
+        "Max steps allowed": {
+            "Type": "Setting",
+            "Best Fit": 20000
+        },
+        "Tolerance of fit": {
+            "Type": "Setting",
+            "Best Fit": "1E-10"
+        }
+    }
+}
+
