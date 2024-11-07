@@ -20,36 +20,36 @@
     "Transit Parameters": {
         "Baseline Flux (raw)": {
             "Type": "Fitted",
-            "Best Fit": 0.081023047,
-            "Prior Center": 0.080296715,
+            "Best Fit": 0.081023046,
+            "Prior Center": 0.08020809,
             "Prior Width": "Infinity",
-            "Step Size": 0.080296715
+            "Step Size": 0.08020809
         },
         "(Rp/R*)^2": {
             "Type": "Fitted",
-            "Best Fit": 0.024093026,
-            "Prior Center": 0.009137827,
+            "Best Fit": 0.024092995,
+            "Prior Center": 0.006880702,
             "Prior Width": "Infinity",
-            "Step Size": 0.009137827
+            "Step Size": 0.006880702
         },
         "a/R*": {
             "Type": "Fitted",
-            "Best Fit": 2.854658842,
-            "Prior Center": 3.262823013,
+            "Best Fit": 2.854413994,
+            "Prior Center": 3.225173448,
             "Prior Width": "Infinity",
             "Step Size": 1.0
         },
         "Tc": {
             "Type": "Fitted",
-            "Best Fit": 2460580.896924499,
+            "Best Fit": 2460580.899117944,
             "Prior Center": 2460580.859,
             "Prior Width": "Infinity",
             "Step Size": 0.04
         },
         "Inclination (deg)": {
             "Type": "Fitted",
-            "Best Fit": 80.467411291,
-            "Prior Center": 79.5,
+            "Best Fit": 80.466677487,
+            "Prior Center": 79.6,
             "Prior Width": "Infinity",
             "Step Size": 1.0
         },
@@ -71,27 +71,27 @@
     "Calculated From Model": {
         "Impact Angle": {
             "Type": "Calc",
-            "Best Fit": 0.472755937
+            "Best Fit": 0.472751441
         },
         "t14 (d)": {
             "Type": "Calc",
-            "Best Fit": 0.122154918
+            "Best Fit": 0.122166451
         },
         "t14 (h:m:s)": {
             "Type": "Calc",
-            "Best Fit": "02:55:54"
+            "Best Fit": "02:55:55"
         },
         "t23 (d)": {
             "Type": "Calc",
-            "Best Fit": 0.079998807
+            "Best Fit": 0.080006363
         },
         "tau (d)": {
             "Type": "Calc",
-            "Best Fit": 0.021078055
+            "Best Fit": 0.021080044
         },
         "Stellar Density (cgs)": {
             "Type": "Calc",
-            "Best Fit": 0.439667582
+            "Best Fit": 0.439554459
         },
         "(est)Spectral Type": {
             "Type": "Calc",
@@ -99,7 +99,7 @@
         },
         "Planet Radius (Rjup)": {
             "Type": "Calc",
-            "Best Fit": 1.518044603
+            "Best Fit": 1.518043609
         }
     },
     "Fit Statistics": {
@@ -109,11 +109,11 @@
         },
         "chi^2/dof": {
             "Type": "Stat",
-            "Best Fit": 5.889894886
+            "Best Fit": 5.889895515
         },
         "BIC": {
             "Type": "Stat",
-            "Best Fit": 1299.208108821
+            "Best Fit": 1299.208244676
         },
         "Degrees of freedom": {
             "Type": "Stat",
@@ -121,11 +121,11 @@
         },
         "chi^2": {
             "Type": "Stat",
-            "Best Fit": 1272.217295316
+            "Best Fit": 1272.21743119
         },
         "Number of steps taken": {
             "Type": "Stat",
-            "Best Fit": 705
+            "Best Fit": 409
         }
     },
     "Fit Settings": {
@@ -139,4 +139,3 @@
         }
     }
 }
-
