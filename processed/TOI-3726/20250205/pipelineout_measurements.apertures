@@ -1,5 +1,5 @@
 #AstroImageJ Saved Apertures
-#Sun Jun 29 13:52:56 EDT 2025
+#Sat Jul 05 14:21:13 EDT 2025
 .Astronomy.MultiAperture_.apLoading=ALL_NEW
 .aperture.backplane=false
 .aperture.ccddark=0.0
@@ -11,9 +11,9 @@
 .aperture.fitskeywords=JD_SOBS,JD_UTC,HJD_UTC,BJD_TDB,AIRMASS,ALT_OBJ,CCD-TEMP,EXPTIME,RAOBJ2K,DECOBJ2K
 .aperture.linearitywarninglevel=55000.0
 .aperture.nameoverlay=true
-.aperture.radius=8.0
-.aperture.rback1=11.0
-.aperture.rback2=15.0
+.aperture.radius=5.0
+.aperture.rback1=8.0
+.aperture.rback2=12.0
 .aperture.removebackstars=true
 .aperture.reposition=true
 .aperture.saturationwarninglevel=55000.0
@@ -58,24 +58,24 @@
 .multiaperture.automodefluxcutofffixed=0.01
 .multiaperture.autopeaks=true
 .multiaperture.brightnessdistance=50.0
-.multiaperture.canceled=true
+.multiaperture.canceled=false
 .multiaperture.centroidstar=true,true,true,true,true,true,true,true,true,true,true,true,true
 .multiaperture.debugaperturesuggestion=true
-.multiaperture.decapertures=38.22884286,38.16519827,38.28549621,38.40853801,38.41571446,38.2037831,38.18295513,38.41861223,38.34033522,38.13373993,38.39665502,38.24149114,38.24811043
+.multiaperture.decapertures=38.22850833,38.16489879,38.3272435,38.18447808,38.18295276,38.31660141,38.29862558,38.13352057,38.37296295,38.32550955,38.28511893,38.20351081,38.24112705
 .multiaperture.enableDoubleClicks=true
 .multiaperture.finished=true
 .multiaperture.gaussradius=3.5
 .multiaperture.getMags=false
 .multiaperture.haltOnError=false
 .multiaperture.isalignstar=true,true,true,true,true,true,true,true,true,true,true,true,true
-.multiaperture.isrefstar=false,true,true,true,true,true,true,true,true,true,true,true,true
+.multiaperture.isrefstar=false,true,true,true,false,true,true,false,false,true,true,true,false
 .multiaperture.lowerbrightness=80.0
 .multiaperture.maxpeakvalue=65535.0
 .multiaperture.maxsuggestedstars=12
 .multiaperture.minpeakvalue=2000.0
 .multiaperture.naperturesmax=1000
 .multiaperture.previous=true
-.multiaperture.raapertures=77.29845228,77.28855677,77.09720439,77.32940359,77.30606218,77.26773556,77.50224715,77.27130504,77.12935019,77.29388903,77.34605792,77.50856938,77.50380891
+.multiaperture.raapertures=77.29741459,77.28759016,77.32420276,77.34628903,77.45544145,77.28477071,77.42435282,77.29288611,77.44552444,77.27856423,77.09740967,77.26675361,77.5090846
 .multiaperture.referencestar=1
 .multiaperture.showcomptot=true
 .multiaperture.showhelp=true
@@ -90,7 +90,7 @@
 .multiaperture.usema=true
 .multiaperture.usevarsizeap=false
 .multiaperture.usewcs=true
-.multiaperture.xLocation=459
-.multiaperture.xapertures=1600.2457,1830.6063,1028.4996,958.0676,889.4845,1643.5789,2141.599,817.57983,872.55286,1962.7743,1033.2097,1924.0607,1889.7073
+.multiaperture.xLocation=450
+.multiaperture.xapertures=945.90924,980.74036,851.41956,773.7683,389.42108,989.94305,499.8859,962.12085,426.29358,1011.6832,1649.7776,1054.0559,201.79941
 .multiaperture.yLocation=38
-.multiaperture.yapertures=794.73334,967.1365,1277.8553,299.27295,354.16083,944.29584,272.96457,453.12857,1057.7467,1021.19025,275.13763,123.47656,123.40709
+.multiaperture.yapertures=828.99066,544.607,1270.7563,631.7787,624.66376,1223.326,1142.3263,404.31723,1475.3174,1263.2543,1084.391,717.4117,884.9887
